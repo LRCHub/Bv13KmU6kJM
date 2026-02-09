@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "S_Team",
+  "base_artist": "Hiroyuki Sawano",
+  "createdAt": "2026-02-09T19:27:28.056593Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bugsy`s Team",
+      "artist": "Los Elefantes",
+      "has_synced": true,
+      "path": "select/01_Bugsy`s_Team_Los_Elefantes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "S_TEAM",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_S_TEAM_澤野弘之.txt"
+    }
+  ]
+}
